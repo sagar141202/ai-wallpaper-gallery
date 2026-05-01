@@ -2,14 +2,27 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI Wallpaper Gallery</title>
   <style>
-    body { background: #0d0d0d; color: #e0e0e0; font-family: sans-serif; text-align: center; padding: 4rem; }
-    h1 { background: linear-gradient(135deg, #a78bfa, #60a5fa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2rem; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #0d0d0d; color: #e0e0e0; font-family: 'Segoe UI', sans-serif; }
+    header { text-align: center; padding: 3rem 1rem 1rem; }
+    header h1 { font-size: 2.5rem; background: linear-gradient(135deg, #a78bfa, #60a5fa, #34d399); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    header p { color: #888; margin-top: 0.5rem; font-size: 0.95rem; }
+    .empty { text-align: center; padding: 4rem; color: #555; font-size: 1rem; }
+    footer { text-align: center; padding: 2rem; color: #444; font-size: 0.8rem; margin-top: 4rem; }
   </style>
 </head>
 <body>
-  <h1>✨ AI Wallpaper Gallery</h1>
-  <p>First wallpaper will appear after the first automated run at 6 AM IST.</p>
+  <header>
+    <h1>✨ AI Wallpaper Gallery</h1>
+    <p>Auto-generated daily using FLUX.1 + Groq · Updated every morning at 6 AM IST</p>
+  </header>
+  <div class="empty">
+    🌅 First wallpaper will appear after the automation runs at 6 AM IST.<br><br>
+    Or trigger it manually from the Actions tab.
+  </div>
+  <footer>Built with GitHub Actions · Hugging Face FLUX.1 · Groq Llama 3.1</footer>
 </body>
 </html>
