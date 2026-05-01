@@ -49,7 +49,6 @@ def generate_prompts_batch(count):
         temperature=1.0,
     )
     raw = response.choices[0].message.content.strip()
-    # Strip markdown fences if present
     raw = raw.replace("```json", "").replace("```", "").strip()
     prompts = json.loads(raw)
     return prompts, style
@@ -62,15 +61,14 @@ def generate_image(prompt):
         "inputs": prompt,
         "parameters": {
             "width": 1024,
-            "height": 576,   # 16:9 wallpaper ratio
+            "height": 576,
             "num_inference_steps": 4,
         }
     }
-    # Retry up to 3 times (model may need warm-up)
     for attempt in range(3):
         response = requests.post(api_url, headers=headers, json=payload, timeout=60)
         if response.status_code == 200:
-            return response.content   # raw image bytes
+            return response.content
         elif response.status_code == 503:
             print(f"    Model loading, waiting 20s... (attempt {attempt+1})")
             time.sleep(20)
@@ -93,16 +91,21 @@ def make_commit(index, total, prompt, style):
     print(f"  ✓ Commit {index}/{total}")
 
 def update_gallery(image_filename, prompt, style, all_entries):
-    """Regenerate the HTML gallery page."""
+    """Regenerate the HTML gallery page inside docs/."""
     cards_html = ""
-    for entry in reversed(all_entries):   # newest first
+    for entry in reversed(all_entries):
+        if entry["image"]:
+            img_tag = f'<img src="images/{entry["image"]}" alt="{entry["prompt"][:60]}" loading="lazy">'
+        else:
+            img_tag = '<div class="no-img">⚠️ Image unavailable for this day</div>'
+
         cards_html += f"""
         <div class="card">
-          <img src="../images/{entry['image']}" alt="{entry['prompt'][:60]}" loading="lazy" onerror="this.parentElement.style.display='none'">
+          {img_tag}
           <div class="card-body">
-            <span class="style-tag">{entry['style']}</span>
-            <p class="prompt-text">{entry['prompt'][:120]}...</p>
-            <span class="date">{entry['date']}</span>
+            <span class="style-tag">{entry["style"][:45]}</span>
+            <p class="prompt-text">{entry["prompt"][:120]}...</p>
+            <span class="date">{entry["date"]}</span>
           </div>
         </div>"""
 
@@ -123,9 +126,10 @@ def update_gallery(image_filename, prompt, style, all_entries):
     .card {{ background: #1a1a1a; border-radius: 12px; overflow: hidden; border: 1px solid #2a2a2a; transition: transform 0.2s, border-color 0.2s; }}
     .card:hover {{ transform: translateY(-4px); border-color: #a78bfa; }}
     .card img {{ width: 100%; height: 200px; object-fit: cover; display: block; }}
+    .no-img {{ width: 100%; height: 200px; display: flex; align-items: center; justify-content: center; background: #111; color: #555; font-size: 0.9rem; }}
     .card-body {{ padding: 1rem; }}
-    .style-tag {{ background: #1e1b4b; color: #a78bfa; border-radius: 99px; padding: 2px 10px; font-size: 0.75rem; }}
-    .prompt-text {{ margin: 0.6rem 0; font-size: 0.88rem; color: #bbb; line-height: 1.5; }}
+    .style-tag {{ background: #1e1b4b; color: #a78bfa; border-radius: 99px; padding: 2px 10px; font-size: 0.75rem; display: inline-block; margin-bottom: 0.5rem; }}
+    .prompt-text {{ margin: 0.4rem 0 0.6rem; font-size: 0.88rem; color: #bbb; line-height: 1.5; }}
     .date {{ font-size: 0.75rem; color: #555; }}
     footer {{ text-align: center; padding: 2rem; color: #444; font-size: 0.8rem; }}
   </style>
@@ -153,33 +157,36 @@ def update_gallery(image_filename, prompt, style, all_entries):
     print("  ✓ Gallery page updated")
 
 def load_entries_log():
-    """Load the log of all previous images."""
-    log_path = "images/log.json"
+    """Load the log of all previous images from docs/log.json."""
+    log_path = "docs/log.json"
     if os.path.exists(log_path):
         with open(log_path) as f:
             return json.load(f)
     return []
 
 def save_entries_log(entries):
-    with open("images/log.json", "w") as f:
+    """Save the log to docs/log.json so Pages can access it."""
+    with open("docs/log.json", "w") as f:
         json.dump(entries, f, indent=2)
-    os.system('git add images/log.json')
+    os.system('git add docs/log.json')
 
 def main():
     total_commits = random.randint(40, 50)
     print(f"Target: {total_commits} commits + 1 image + gallery update")
 
-    # Ensure docs folder exists and Jekyll is disabled
-    os.makedirs("docs", exist_ok=True)
+    # Ensure all folders exist
+    os.makedirs("docs/images", exist_ok=True)
     os.makedirs("images", exist_ok=True)
     os.makedirs("content", exist_ok=True)
+
+    # Disable Jekyll so GitHub Pages serves raw HTML correctly
     if not os.path.exists("docs/.nojekyll"):
         open("docs/.nojekyll", "w").close()
         os.system('git add docs/.nojekyll')
         os.system('git commit -m "chore: disable jekyll for pages"')
         print("  ✓ .nojekyll created")
 
-    # Generate all prompts in one Groq call (saves API quota)
+    # Generate all prompts in one Groq call
     print("Generating prompts via Groq...")
     prompts, style = generate_prompts_batch(total_commits)
     if len(prompts) < total_commits:
@@ -193,7 +200,7 @@ def main():
         make_commit(i, total_commits, prompt, style)
         time.sleep(random.randint(2, 5))
 
-    # Generate ONE actual image from the best-sounding prompt
+    # Generate ONE actual image
     print("\nGenerating AI image via HuggingFace FLUX.1...")
     image_prompt = prompts[0]
     image_bytes = generate_image(f"{image_prompt}, 4k wallpaper, highly detailed, {style}")
@@ -202,12 +209,20 @@ def main():
     all_entries = load_entries_log()
 
     if image_bytes:
+        # Save to images/ (archive) AND docs/images/ (served by Pages)
         image_path = f"images/{image_filename}"
+        docs_image_path = f"docs/images/{image_filename}"
+
         with open(image_path, "wb") as f:
             f.write(image_bytes)
+        with open(docs_image_path, "wb") as f:
+            f.write(image_bytes)
+
         os.system(f'git add "{image_path}"')
+        os.system(f'git add "{docs_image_path}"')
         os.system(f'git commit -m "image: daily wallpaper {DATE_STR}"')
         print(f"  ✓ Image saved: {image_filename}")
+
         all_entries.append({
             "date": DATE_STR,
             "image": image_filename,
