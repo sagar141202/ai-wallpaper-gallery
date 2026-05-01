@@ -145,10 +145,10 @@ def update_gallery(image_filename, prompt, style, all_entries):
 </body>
 </html>"""
 
-    with open("gallery/index.html", "w") as f:
+    with open("docs/index.html", "w") as f:
         f.write(html)
 
-    os.system('git add gallery/index.html')
+    os.system('git add docs/index.html')
     os.system(f'git commit -m "gallery: update with {DATE_STR} wallpaper"')
     print("  ✓ Gallery page updated")
 
