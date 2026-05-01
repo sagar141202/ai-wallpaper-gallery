@@ -4,5 +4,35 @@
     "image": "",
     "prompt": "A serene, snowy forest at dusk, with soft golden light spilling from the windows of a cozy mountain cabin.",
     "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-01",
+    "image": "2026-05-01_wallpaper_01.jpg",
+    "prompt": "A misty dawn breaks over a tranquil Japanese tea house nestled amidst a serene landscape of emerald green moss, winding gravel paths, and delicate pink cherry blossoms.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-05-01",
+    "image": "2026-05-01_wallpaper_02.jpg",
+    "prompt": "A vast, cyberpunk metropolis sprawls at dusk, as rain-soaked streets reflect a kaleidoscope of neon lights from towering skyscrapers, while misty clouds gather above.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-01",
+    "image": "2026-05-01_wallpaper_03.jpg",
+    "prompt": "A surreal underwater cityscape with iridescent jellyfish lamps, bioluminescent flora, and schools of rainbow-colored fish in neon-lit aquaria.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-01",
+    "image": "2026-05-01_wallpaper_04.jpg",
+    "prompt": "A mystical, abandoned library hidden deep within a gothic castle, illuminated by the soft, warm glow of flickering gas lamps casting long shadows across rows of ancient, leather-bound tomes.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-05-01",
+    "image": "2026-05-01_wallpaper_05.jpg",
+    "prompt": "In a realm of perpetual twilight, a sprawling archipelago of iridescent floating islands rises from the swirling vortex of a celestial waterfall, amidst wispy aurora-lit clouds that undulate like living mist.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
   }
 ]

@@ -5,43 +5,128 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI Wallpaper Gallery</title>
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { background: #0d0d0d; color: #e0e0e0; font-family: 'Segoe UI', sans-serif; }
-    header { text-align: center; padding: 3rem 1rem 1rem; }
-    header h1 { font-size: 2.5rem; background: linear-gradient(135deg, #a78bfa, #60a5fa, #34d399); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-    header p { color: #888; margin-top: 0.5rem; font-size: 0.95rem; }
-    .stats { text-align: center; padding: 1rem; color: #666; font-size: 0.85rem; }
-    .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem; padding: 2rem; max-width: 1400px; margin: 0 auto; }
-    .card { background: #1a1a1a; border-radius: 12px; overflow: hidden; border: 1px solid #2a2a2a; transition: transform 0.2s, border-color 0.2s; }
-    .card:hover { transform: translateY(-4px); border-color: #a78bfa; }
-    .card img { width: 100%; height: 200px; object-fit: cover; display: block; }
-    .no-img { width: 100%; height: 200px; display: flex; align-items: center; justify-content: center; background: #111; color: #555; font-size: 0.9rem; }
-    .card-body { padding: 1rem; }
-    .style-tag { background: #1e1b4b; color: #a78bfa; border-radius: 99px; padding: 2px 10px; font-size: 0.75rem; display: inline-block; margin-bottom: 0.5rem; }
-    .prompt-text { margin: 0.4rem 0 0.6rem; font-size: 0.88rem; color: #bbb; line-height: 1.5; }
-    .date { font-size: 0.75rem; color: #555; }
-    footer { text-align: center; padding: 2rem; color: #444; font-size: 0.8rem; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #0a0a0f; color: #e0e0e0; font-family: 'Segoe UI', system-ui, sans-serif; min-height: 100vh; }
+    header { text-align: center; padding: 3.5rem 1rem 0.5rem; }
+    header h1 {
+      font-size: clamp(1.8rem, 5vw, 3rem);
+      background: linear-gradient(135deg, #a78bfa 0%, #60a5fa 50%, #34d399 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text; letter-spacing: -0.5px;
+    }
+    header p { color: #666; margin-top: 0.6rem; font-size: 0.92rem; }
+    .stats {
+      text-align: center; padding: 0.8rem 1rem;
+      color: #555; font-size: 0.82rem; letter-spacing: 0.3px;
+    }
+    .stats strong { color: #a78bfa; }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.4rem; padding: 1.5rem 2rem 3rem;
+      max-width: 1400px; margin: 0 auto;
+    }
+    .card {
+      background: #13131a; border-radius: 14px; overflow: hidden;
+      border: 1px solid #1e1e2e;
+      transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      border-color: #7c3aed;
+      box-shadow: 0 8px 30px rgba(124, 58, 237, 0.18);
+    }
+    .card img {
+      width: 100%; height: 210px; object-fit: cover;
+      display: block; background: #0d0d14;
+    }
+    .no-img {
+      width: 100%; height: 210px; display: flex;
+      align-items: center; justify-content: center;
+      background: #0d0d14; color: #333; font-size: 0.85rem;
+      flex-direction: column; gap: 0.5rem;
+    }
+    .card-body { padding: 1rem 1.1rem 1.1rem; }
+    .style-tag {
+      background: #1a1040; color: #a78bfa;
+      border-radius: 99px; padding: 3px 11px;
+      font-size: 0.72rem; display: inline-block;
+      border: 1px solid #2d1f6e; margin-bottom: 0.55rem;
+    }
+    .prompt-text {
+      font-size: 0.86rem; color: #aaa; line-height: 1.55;
+      margin-bottom: 0.6rem;
+      display: -webkit-box; -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .date { font-size: 0.72rem; color: #444; }
+    footer {
+      text-align: center; padding: 1.5rem;
+      color: #333; font-size: 0.78rem; border-top: 1px solid #111;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>✨ AI Wallpaper Gallery</h1>
-    <p>Auto-generated daily using FLUX.1 + Groq · Updated every morning at 6 AM IST</p>
+    <p>Auto-generated daily · FLUX.1-schnell + Groq Llama · 6 AM IST every morning</p>
   </header>
   <div class="stats">
-    1 wallpapers generated and counting · Last updated 2026-05-01 05:49:16 IST
+    <strong>6</strong> wallpapers generated · Last updated 2026-05-01 05:55:30 IST
   </div>
   <div class="gallery">
     
         <div class="card">
-          <div class="no-img">⚠️ Image unavailable for this day</div>
+          <img src="images/2026-05-01_wallpaper_05.jpg" alt="In a realm of perpetual twilight, a sprawling archipelago of" loading="lazy">
+          <div class="card-body">
+            <span class="style-tag">fantasy floating islands, waterfalls, magical</span>
+            <p class="prompt-text">In a realm of perpetual twilight, a sprawling archipelago of iridescent floating islands rises from the swirling vortex of a celes</p>
+            <span class="date">2026-05-01</span>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/2026-05-01_wallpaper_04.jpg" alt="A mystical, abandoned library hidden deep within a gothic ca" loading="lazy">
+          <div class="card-body">
+            <span class="style-tag">dark academia library, candle light, antique </span>
+            <p class="prompt-text">A mystical, abandoned library hidden deep within a gothic castle, illuminated by the soft, warm glow of flickering gas lamps casti</p>
+            <span class="date">2026-05-01</span>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/2026-05-01_wallpaper_03.jpg" alt="A surreal underwater cityscape with iridescent jellyfish lam" loading="lazy">
+          <div class="card-body">
+            <span class="style-tag">solarpunk greenhouse, lush plants, natural li</span>
+            <p class="prompt-text">A surreal underwater cityscape with iridescent jellyfish lamps, bioluminescent flora, and schools of rainbow-colored fish in neon-</p>
+            <span class="date">2026-05-01</span>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/2026-05-01_wallpaper_02.jpg" alt="A vast, cyberpunk metropolis sprawls at dusk, as rain-soaked" loading="lazy">
+          <div class="card-body">
+            <span class="style-tag">cyberpunk cityscape, neon lights, rain-soaked</span>
+            <p class="prompt-text">A vast, cyberpunk metropolis sprawls at dusk, as rain-soaked streets reflect a kaleidoscope of neon lights from towering skyscrape</p>
+            <span class="date">2026-05-01</span>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/2026-05-01_wallpaper_01.jpg" alt="A misty dawn breaks over a tranquil Japanese tea house nestl" loading="lazy">
+          <div class="card-body">
+            <span class="style-tag">Japanese zen garden, cherry blossoms, misty m</span>
+            <p class="prompt-text">A misty dawn breaks over a tranquil Japanese tea house nestled amidst a serene landscape of emerald green moss, winding gravel pat</p>
+            <span class="date">2026-05-01</span>
+          </div>
+        </div>
+        <div class="card">
+          <div class="no-img">🖼️ Generation unavailable</div>
           <div class="card-body">
             <span class="style-tag">snowy mountain cabin, warm glow from windows,</span>
-            <p class="prompt-text">A serene, snowy forest at dusk, with soft golden light spilling from the windows of a cozy mountain cabin....</p>
+            <p class="prompt-text">A serene, snowy forest at dusk, with soft golden light spilling from the windows of a cozy mountain cabin.</p>
             <span class="date">2026-05-01</span>
           </div>
         </div>
   </div>
-  <footer>Built with GitHub Actions · Hugging Face FLUX.1 · Groq Llama 3.1</footer>
+  <footer>
+    Powered by GitHub Actions · Hugging Face FLUX.1-schnell · Groq Llama 3.1 8B
+  </footer>
 </body>
 </html>
