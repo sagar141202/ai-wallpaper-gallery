@@ -169,13 +169,22 @@ def main():
     total_commits = random.randint(40, 50)
     print(f"Target: {total_commits} commits + 1 image + gallery update")
 
+    # Ensure docs folder exists and Jekyll is disabled
+    os.makedirs("docs", exist_ok=True)
+    os.makedirs("images", exist_ok=True)
+    os.makedirs("content", exist_ok=True)
+    if not os.path.exists("docs/.nojekyll"):
+        open("docs/.nojekyll", "w").close()
+        os.system('git add docs/.nojekyll')
+        os.system('git commit -m "chore: disable jekyll for pages"')
+        print("  ✓ .nojekyll created")
+
     # Generate all prompts in one Groq call (saves API quota)
     print("Generating prompts via Groq...")
     prompts, style = generate_prompts_batch(total_commits)
     if len(prompts) < total_commits:
-        # Pad if Groq returned fewer
         while len(prompts) < total_commits:
-            prompts.append(prompts[random.randint(0, len(prompts)-1)])
+            prompts.append(prompts[random.randint(0, len(prompts) - 1)])
     prompts = prompts[:total_commits]
     print(f"  ✓ Got {len(prompts)} prompts in style: {style[:40]}")
 
@@ -186,7 +195,7 @@ def main():
 
     # Generate ONE actual image from the best-sounding prompt
     print("\nGenerating AI image via HuggingFace FLUX.1...")
-    image_prompt = prompts[0]   # use first prompt for the image
+    image_prompt = prompts[0]
     image_bytes = generate_image(f"{image_prompt}, 4k wallpaper, highly detailed, {style}")
 
     image_filename = f"{DATE_STR}_wallpaper.jpg"
@@ -199,7 +208,6 @@ def main():
         os.system(f'git add "{image_path}"')
         os.system(f'git commit -m "image: daily wallpaper {DATE_STR}"')
         print(f"  ✓ Image saved: {image_filename}")
-
         all_entries.append({
             "date": DATE_STR,
             "image": image_filename,
@@ -217,8 +225,8 @@ def main():
 
     save_entries_log(all_entries)
     update_gallery(image_filename, image_prompt, style, all_entries)
-
     print(f"\nAll done — {total_commits} commits + image + gallery updated!")
+
 
 if __name__ == "__main__":
     main()
