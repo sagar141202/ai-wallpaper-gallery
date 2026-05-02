@@ -64,5 +64,35 @@
     "image": "2026-05-01_wallpaper_05.jpg",
     "prompt": "A whimsical cottage, partially hidden by a lush tapestry of lavender and chamomile, basks in the warm, golden light of a sunset that casts a tranquil glow over a rolling hillside",
     "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-02",
+    "image": "2026-05-02_wallpaper_01.jpg",
+    "prompt": "A futuristic, dome-shaped, net-zero energy greenhouse with translucent walls and a sprawling interior garden, teeming with vibrant, otherworldly flowers and towering, verdant palm trees, set against a warm, golden sunset sky.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-02",
+    "image": "2026-05-02_wallpaper_02.jpg",
+    "prompt": "Beautiful autumn forest path, fallen leaves, fog, cinematic lighting scene, highly detailed aesthetic wallpaper",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-05-02",
+    "image": "2026-05-02_wallpaper_03.jpg",
+    "prompt": "A mystical, underwater forest scene at dusk, with luminescent jellyfish and glowing coral illuminated by the warm hues of a golden sunset.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-05-02",
+    "image": "2026-05-02_wallpaper_04.jpg",
+    "prompt": "Beautiful snowy mountain cabin, warm glow from windows, snowfall scene, highly detailed aesthetic wallpaper",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-02",
+    "image": "2026-05-02_wallpaper_05.jpg",
+    "prompt": "A serene, pastel-hued study with warm golden light spilling from a vintage desk lamp, casting gentle shadows on plush, cream-colored armchairs amidst shelves lined with leather-bound books.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
   }
 ]
