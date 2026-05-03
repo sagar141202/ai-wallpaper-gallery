@@ -94,5 +94,35 @@
     "image": "2026-05-02_wallpaper_05.jpg",
     "prompt": "A serene, pastel-hued study with warm golden light spilling from a vintage desk lamp, casting gentle shadows on plush, cream-colored armchairs amidst shelves lined with leather-bound books.",
     "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_01.jpg",
+    "prompt": "A futuristic, self-sustaining greenhouse in the heart of a dense, misty forest, where delicate, iridescent fungi softly illuminate the paths and lush vegetation sways gently in the warm, golden light.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_02.jpg",
+    "prompt": "A dreamy, moonlit underwater scene featuring an intricate coral reef teeming with bioluminescent fish and glowing jellyfish, set against a backdrop of iridescent turquoise water.",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_03.jpg",
+    "prompt": "A mystical realm of floating islands, each carved with glowing ethereal runes, surrounded by wispy cirrus clouds that morph into celestial shapes, with cascading waterfalls that seem to defy gravity, plunging into an endless expanse of radiant blue sky.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_04.jpg",
+    "prompt": "A serene lofi study with worn wooden bookshelves and a plush armchair, bathed in the warm glow of string lights with soft pastel blue and pink hues.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_05.jpg",
+    "prompt": "A serene futuristic space station suspended in the darkness of deep space, its sleek glass dome reflecting a breathtaking kaleidoscope of stars and swirling celestial nebulae.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
   }
 ]
