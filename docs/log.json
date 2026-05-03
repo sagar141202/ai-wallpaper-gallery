@@ -124,5 +124,35 @@
     "image": "2026-05-03_wallpaper_05.jpg",
     "prompt": "A serene futuristic space station suspended in the darkness of deep space, its sleek glass dome reflecting a breathtaking kaleidoscope of stars and swirling celestial nebulae.",
     "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_01.jpg",
+    "prompt": "A minimalist living room with a large floor-to-ceiling window, framed by sleek white moldings and overlooking a serene cityscape at dusk, with soft golden light pouring in.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_02.jpg",
+    "prompt": "Ethereal misty forest, ancient trees shrouded in diaphanous fog, dappled sunlight filtering through the canopy.",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_03.jpg",
+    "prompt": "an abandoned factory transformed into a vibrant, tropical conservatory with sprawling vines and iridescent glass domes, casting rainbows across the walls",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_04.jpg",
+    "prompt": "A serene wildflower meadow set beneath a radiant golden hour sunset, with delicate petals of lavender, chamomile, and cosmos swaying gently in the breeze, as soft wispy clouds drift lazily across the sky.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-03",
+    "image": "2026-05-03_wallpaper_05.jpg",
+    "prompt": "A mystical, dimly lit library hidden within an ancient stone castle, with flickering candlelight illuminating centuries-old tomes amidst a haze of golden wisps.",
+    "style": "dark academia library, candle light, antique books, moody"
   }
 ]
