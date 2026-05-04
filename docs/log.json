@@ -154,5 +154,35 @@
     "image": "2026-05-03_wallpaper_05.jpg",
     "prompt": "A mystical, dimly lit library hidden within an ancient stone castle, with flickering candlelight illuminating centuries-old tomes amidst a haze of golden wisps.",
     "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-05-04",
+    "image": "2026-05-04_wallpaper_01.jpg",
+    "prompt": "A labyrinthine metropolis under the veil of darkness, where towering skyscrapers pierce the midnight sky and a tapestry of neon lights reflects off wet, rain-soaked streets.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-04",
+    "image": "2026-05-04_wallpaper_02.jpg",
+    "prompt": "A dimly lit, ornate study with walls lined with floor-to-ceiling shelves of leather-bound tomes, warm candlelight casting flickering shadows across the aged pages.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-05-04",
+    "image": "2026-05-04_wallpaper_03.jpg",
+    "prompt": "Breathtaking landscape of a frozen lake surrounded by dense forests of twisted silver birch trees, reflected in the calm glassy waters.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-05-04",
+    "image": "2026-05-04_wallpaper_04.jpg",
+    "prompt": "A serene haven of floating islands, shrouded in misty dawn clouds that gradually give way to vibrant, iridescent skies, as waterfalls cascade down moss-covered stone walls into an emerald ocean.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-05-04",
+    "image": "2026-05-04_wallpaper_05.jpg",
+    "prompt": "A serene, verdant bioluminescent forest glows softly in the twilight, with delicate fungi and moss-covered trees swaying gently in the wind.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
   }
 ]
