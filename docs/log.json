@@ -184,5 +184,35 @@
     "image": "2026-05-04_wallpaper_05.jpg",
     "prompt": "A serene, verdant bioluminescent forest glows softly in the twilight, with delicate fungi and moss-covered trees swaying gently in the wind.",
     "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-05",
+    "image": "2026-05-05_wallpaper_01.jpg",
+    "prompt": "Minimalist Japanese villa, weathered wood accents, serene mountains in the distance, soft morning sunlight filtering through windows",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-05-05",
+    "image": "2026-05-05_wallpaper_02.jpg",
+    "prompt": "solar-powered, verdant, futuristic greenhouse with glowing filaments and verdant plants spilling out into a misty, dewy morning",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-05",
+    "image": "2026-05-05_wallpaper_03.jpg",
+    "prompt": "Create an eerie, high-ceiling library with rows of ancient, leather-bound tomes stacked haphazardly on shelves, illuminated only by flickering candelabras casting long shadows across stone floors.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-05-05",
+    "image": "2026-05-05_wallpaper_04.jpg",
+    "prompt": "Ethereal mist settles over an abandoned temple, silhouetted against a crimson-lit sky with wispy clouds drifting like cotton candy, in an oasis nestled within the heart of a vast, golden desert.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-05-05",
+    "image": "2026-05-05_wallpaper_05.jpg",
+    "prompt": "A dystopian metropolis sprawls under a canopy of rain-glistening skyscrapers, neon signs reflecting off wet pavement like a kaleidoscope of shattered glass.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
   }
 ]
