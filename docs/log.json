@@ -214,5 +214,35 @@
     "image": "2026-05-05_wallpaper_05.jpg",
     "prompt": "A dystopian metropolis sprawls under a canopy of rain-glistening skyscrapers, neon signs reflecting off wet pavement like a kaleidoscope of shattered glass.",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-06",
+    "image": "2026-05-06_wallpaper_01.jpg",
+    "prompt": "A serene, secluded cottage nestles among a tapestry of vibrant, swaying wildflowers in a sun-kissed wildflower meadow, bathed in warm golden hour sunlight that casts a mystical glow across the landscape.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-06",
+    "image": "2026-05-06_wallpaper_02.jpg",
+    "prompt": "Create a lofi aesthetic wallpaper featuring a small, cluttered study with worn leather armchairs, soft pastel-colored bookshelves, and warm golden light spilling from a lantern in the corner.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-06",
+    "image": "",
+    "prompt": "A mystical ancient tomes-filled library shrouded in mist, illuminated by warm lantern light on a rainy night, with velvet-draped walls and ornate wooden details.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-05-06",
+    "image": "2026-05-06_wallpaper_04.jpg",
+    "prompt": "dreamy 80s neon sunset with distorted TV static and wavy palm trees in a grid of VHS tapes",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-05-06",
+    "image": "2026-05-06_wallpaper_05.jpg",
+    "prompt": "majestic forest of towering sequoias at dawn, misty veil lifting above gnarled trunks, sky ablaze with hues of saffron and coral",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
   }
 ]
