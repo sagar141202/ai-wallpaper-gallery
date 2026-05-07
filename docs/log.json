@@ -244,5 +244,35 @@
     "image": "2026-05-06_wallpaper_05.jpg",
     "prompt": "majestic forest of towering sequoias at dawn, misty veil lifting above gnarled trunks, sky ablaze with hues of saffron and coral",
     "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-05-07",
+    "image": "2026-05-07_wallpaper_01.jpg",
+    "prompt": "Beautiful solarpunk greenhouse, lush plants, natural light, utopian scene, highly detailed aesthetic wallpaper",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-07",
+    "image": "2026-05-07_wallpaper_02.jpg",
+    "prompt": "Floating islands of iridescent aquamarine and emerald green drift through a shimmering aurora-lit sky, their misty bases hidden behind veils of crystal waterfalls.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-05-07",
+    "image": "2026-05-07_wallpaper_03.jpg",
+    "prompt": "A serene forest glade at dawn, misty veil rising from a tranquil lake, soft pink hues on the trees",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-07",
+    "image": "",
+    "prompt": "A surreal underwater realm where undulating soft coral tendrils morph into ethereal lotus flowers, illuminated by shafts of golden sunlight that dissolve into iridescent mist.",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-05-07",
+    "image": "2026-05-07_wallpaper_05.jpg",
+    "prompt": "A sprawling cyberpunk metropolis shrouded in a misty veil of rain, with towering skyscrapers and neon-drenched skyscrapers rising in a kaleidoscope of colors against a deep indigo night sky.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
   }
 ]
