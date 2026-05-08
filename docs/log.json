@@ -274,5 +274,35 @@
     "image": "2026-05-07_wallpaper_05.jpg",
     "prompt": "A sprawling cyberpunk metropolis shrouded in a misty veil of rain, with towering skyscrapers and neon-drenched skyscrapers rising in a kaleidoscope of colors against a deep indigo night sky.",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-08",
+    "image": "",
+    "prompt": "A serene fantasy scene of a misty floating island rising above a turquoise ocean, with wispy white clouds drifting lazily across the sky and a luminous golden waterfall cascading down the island's edge.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-05-08",
+    "image": "",
+    "prompt": "A secluded beachside lighthouse illuminated by the golden hues of sunrise, with seagulls flying overhead.",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-08",
+    "image": "",
+    "prompt": "Generate a whimsical cottagecore scene of a lush, verdant wildflower meadow at the peak of golden hour, with warm sunlight casting a kaleidoscope of colors across the delicate petals and softening the rustic, weathered stone walls of nearby cottages.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-08",
+    "image": "",
+    "prompt": "A midnight ocean scene with undulating waves infused with a mesmerizing glow of bioluminescent organisms, reflected against a star-studded sky with constellations of Cassiopeia and Ursa Major.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-05-08",
+    "image": "",
+    "prompt": "A mystical, dimly lit study, filled with shelves of ancient leather-bound tomes, their gilded edges glinting in the soft, golden glow of candlelight as wisps of smoke dance upwards towards the vaulted ceiling.",
+    "style": "dark academia library, candle light, antique books, moody"
   }
 ]
