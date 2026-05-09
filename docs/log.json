@@ -304,5 +304,35 @@
     "image": "",
     "prompt": "A mystical, dimly lit study, filled with shelves of ancient leather-bound tomes, their gilded edges glinting in the soft, golden glow of candlelight as wisps of smoke dance upwards towards the vaulted ceiling.",
     "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-05-09",
+    "image": "",
+    "prompt": "A whimsical, moss-covered cottage nestled among a lush tapestry of wildflowers in a sun-drenched wildflower meadow, bathed in the warm, golden light of a golden hour sunset.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-09",
+    "image": "",
+    "prompt": "A mesmerizing fantasy landscape of glowing, iridescent floating islands with delicate waterfalls cascading into a sea of misty, starry skies and swirling, rainbow-hued clouds.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-05-09",
+    "image": "",
+    "prompt": "A sweeping underwater scene of an ancient coral reef, illuminated by rays of warm golden sunlight filtering down through the crystal-clear turquoise water, teeming with schools of iridescent blue-and-red parrotfish and majestic sea fans swaying gently in the ocean current.",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-05-09",
+    "image": "",
+    "prompt": "Beautiful minimalist studio, white walls, soft shadows, architectural scene, highly detailed aesthetic wallpaper",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-05-09",
+    "image": "",
+    "prompt": "A moonlit Japanese garden hidden between ancient, gnarled cypress trees, shrouded in a veil of mist, under which delicate cherry blossoms are set aglow by soft ethereal light.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
   }
 ]
