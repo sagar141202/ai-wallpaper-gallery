@@ -364,5 +364,35 @@
     "image": "",
     "prompt": "A serene monochromatic minimalist studio with polished concrete floors and subtle ambient lighting that casts soft, warm shadows on the stark white walls.",
     "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-05-11",
+    "image": "",
+    "prompt": "A mystical forest path winding through a tapestry of gold and crimson fallen leaves, surrounded by towering trees and an ethereal fog, illuminated by the soft, warm glow of a setting autumn sun.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-05-11",
+    "image": "",
+    "prompt": "A soft focus photograph of a tranquil study at dusk, bathed in warm golden light spilling from a single candle on a wooden desk, surrounded by worn leather-bound books and potted ferns in muted pastel hues.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-11",
+    "image": "",
+    "prompt": "A serene moonlit ocean scene with undulating waves radiating a soft blue-green glow from bioluminescent plankton, set against a backdrop of a twinkling star-studded sky.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-05-11",
+    "image": "",
+    "prompt": "A whimsical cottagecore scene featuring a lush wildflower meadow under soft, golden hour sunlight, with delicate petals swaying in the gentle breeze as sunlight glimmers through the intricate details of blooming flowers.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-11",
+    "image": "",
+    "prompt": "A mystical, gothic study filled with leather-bound tomes and flickering candelabras, casting intricate shadows on walls adorned with ancient tapestries.",
+    "style": "dark academia library, candle light, antique books, moody"
   }
 ]
