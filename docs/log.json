@@ -394,5 +394,35 @@
     "image": "",
     "prompt": "A mystical, gothic study filled with leather-bound tomes and flickering candelabras, casting intricate shadows on walls adorned with ancient tapestries.",
     "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-05-12",
+    "image": "2026-05-12_wallpaper_01.jpg",
+    "prompt": "a serene coastal lighthouse at dusk, vibrant colors of sunset reflected in the rippling ocean waters",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-12",
+    "image": "2026-05-12_wallpaper_02.jpg",
+    "prompt": "A serene misty dawn in an ancient woodland, where golden light filtering through bare tree branches casts dappled shadows on emerald moss and the scent of damp earth lingers on crisp fallen leaves.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-05-12",
+    "image": "2026-05-12_wallpaper_03.jpg",
+    "prompt": "A mesmerizing underwater scene of an ancient coral reef teeming with life, illuminated by an eerie blue-green glow of a distant underwater volcano",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-05-12",
+    "image": "2026-05-12_wallpaper_04.jpg",
+    "prompt": "Imagery of a serene Japanese-inspired zen garden at dusk, with intricately pruned trees, moss-covered stepping stones, and delicate lanterns casting warm soft golden light onto the misty surroundings.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-05-12",
+    "image": "2026-05-12_wallpaper_05.jpg",
+    "prompt": "Beautiful vaporwave sunset, retro grid, palm trees, purple and pink sky scene, highly detailed aesthetic wallpaper",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
   }
 ]
