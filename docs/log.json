@@ -424,5 +424,35 @@
     "image": "2026-05-12_wallpaper_05.jpg",
     "prompt": "Beautiful vaporwave sunset, retro grid, palm trees, purple and pink sky scene, highly detailed aesthetic wallpaper",
     "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-05-13",
+    "image": "2026-05-13_wallpaper_01.jpg",
+    "prompt": "A serene cottage perched on a rolling hill, surrounded by a vibrant tapestry of wildflowers in full bloom, bathed in the warm, honey-hued light of golden hour.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-13",
+    "image": "2026-05-13_wallpaper_02.jpg",
+    "prompt": "Lush, tropical paradise with iridescent butterflies flitting among vibrant hibiscus flowers and gnarled, driftwood-sculpted palms swaying in a warm, golden light.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-05-13",
+    "image": "2026-05-13_wallpaper_03.jpg",
+    "prompt": "A neon-drenched cityscape at dusk, where towering skyscrapers pierce the night sky amidst a torrential downpour, their led facades flickering like a living entity.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-13",
+    "image": "2026-05-13_wallpaper_04.jpg",
+    "prompt": "Cyberpunk cityscape at dusk, neon lights reflecting off a distorted pool of water with a retro TV static pattern in the foreground, and a deep pink and orange sky.",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-05-13",
+    "image": "2026-05-13_wallpaper_05.jpg",
+    "prompt": "Tuscan countryside at dawn, rolling hills of golden wheat and olive trees, rose-hued mist, a solitary stone farmhouse",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
   }
 ]
