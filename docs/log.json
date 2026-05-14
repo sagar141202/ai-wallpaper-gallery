@@ -454,5 +454,35 @@
     "image": "2026-05-13_wallpaper_05.jpg",
     "prompt": "Tuscan countryside at dawn, rolling hills of golden wheat and olive trees, rose-hued mist, a solitary stone farmhouse",
     "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-05-14",
+    "image": "2026-05-14_wallpaper_01.jpg",
+    "prompt": "A mystical, moonlit forest path winding through a tapestry of crimson and amber fallen leaves, as misty fog rolls in to shroud the scene in an otherworldly ambiance.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-05-14",
+    "image": "2026-05-14_wallpaper_02.jpg",
+    "prompt": "Beautiful snowy mountain cabin, warm glow from windows, snowfall scene, highly detailed aesthetic wallpaper",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-14",
+    "image": "2026-05-14_wallpaper_03.jpg",
+    "prompt": "A mystical realm of luminous floating islands drifts effortlessly through the misty veil of ethereal twilight, as delicate waterfalls cascade from island to island and shimmering clouds weave an enchanted tapestry across the vast expanse of a glowing celestial sea.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-05-14",
+    "image": "2026-05-14_wallpaper_04.jpg",
+    "prompt": "A serene, moonlit forest with gnarled tree trunks, velvety moss, and a blanket of starlight above, set against the dark, mysterious silhouette of mountains",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-05-14",
+    "image": "2026-05-14_wallpaper_05.jpg",
+    "prompt": "A whimsical cottagecore landscape of a lush, vibrant wildflower meadow bathed in warm, golden hour sunlight with delicate clouds drifting lazily across a bright blue sky.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
   }
 ]
