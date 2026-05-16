@@ -514,5 +514,35 @@
     "image": "",
     "prompt": "Lush underwater gardens at dawn, soft coral hues, schools of iridescent fish, golden sunlight filtering through the waves.",
     "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-05-16",
+    "image": "",
+    "prompt": "A snow-covered, ancient Japanese cedar tree stands alone amidst a tranquil forest of moss-covered boulders, misty mountains looming in the background with the soft glow of dawn",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-05-16",
+    "image": "",
+    "prompt": "A densely populated cyberpunk cityscape bathed in a sea of warm neon lights that reflect off rain-soaked streets, casting a mesmerizing glow on the wet pavement at night.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-16",
+    "image": "",
+    "prompt": "Beautiful lofi aesthetic, soft pastel colors, cozy room, warm lighting scene, highly detailed aesthetic wallpaper",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-16",
+    "image": "",
+    "prompt": "softly lit, monochromatic loft with exposed brick walls, polished concrete floor, and minimalist metal beams",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-05-16",
+    "image": "",
+    "prompt": "serene, misty forest at twilight, lanterns flickering in the distance, ancient trees looming",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
   }
 ]
