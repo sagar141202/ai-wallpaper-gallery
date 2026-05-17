@@ -544,5 +544,35 @@
     "image": "",
     "prompt": "serene, misty forest at twilight, lanterns flickering in the distance, ancient trees looming",
     "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-17",
+    "image": "",
+    "prompt": "A mysterious, dimly lit Victorian study with overflowing bookshelves, warm candlelight dancing across worn leather tomes, and a faint hint of smoke from a pipe.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-05-17",
+    "image": "",
+    "prompt": "A soothing, lofi aesthetic wallpaper depicting a serene tea room with plush armchairs, distressed wooden accents, and floor-to-ceiling bookshelves in soft pastel shades of peach and lavender, bathed in warm candlelight.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-17",
+    "image": "",
+    "prompt": "A serene misty dawn breaks over a tranquil mountain lake, reflected ripples in glassy waters, morning sun cast golden hues across rocky shores.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-05-17",
+    "image": "",
+    "prompt": "vaporwave sunset, neon-lit skyscrapers and old computers, soft pastel background and distorted low-fi VHS patterns",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-05-17",
+    "image": "",
+    "prompt": "A serene lakeside villa under a starry night sky, with soft ripples on the water's surface and a few wispy clouds in the background",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
   }
 ]
