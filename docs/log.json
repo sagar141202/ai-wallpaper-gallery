@@ -574,5 +574,35 @@
     "image": "",
     "prompt": "A serene lakeside villa under a starry night sky, with soft ripples on the water's surface and a few wispy clouds in the background",
     "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-18",
+    "image": "",
+    "prompt": "Create a lofi aesthetic wallpaper featuring a snug, cream-colored reading nook with warm, honey-golden lighting, surrounded by towering floor-to-ceiling bookshelves in gentle, muted wood tones, plush throw pillows in soft lavender hues, and a soft focus of falling morning sunlight through sheer white curtains.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-18",
+    "image": "",
+    "prompt": "A serene fantasy landscape of a floating island, surrounded by a veil of iridescent mist, with ethereal waterfalls cascading down crystal formations into a shimmering aquamarine lake below.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-05-18",
+    "image": "",
+    "prompt": "A dystopian metropolis in the midst of a torrential downpour, neon-drenched skyscrapers reflecting off rain-soaked streets like a canvas of shattered prisms under the dim, flickering glow of holographic advertisements.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-18",
+    "image": "",
+    "prompt": "A serene space station floating amidst a nebula, with iridescent stars twinkling through its delicate, crystal dome, as a warm, orange-hued sunset casts a mystical glow.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-05-18",
+    "image": "",
+    "prompt": "A futuristic greenhouse with living walls infused with ethereal bioluminescent moss, set against a soft pastel blue backdrop of a misty morning, amidst a tapestry of interconnected, vibrant, solar-panel rooflines.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
   }
 ]
