@@ -634,5 +634,35 @@
     "image": "",
     "prompt": "A futuristic space station shrouded in a mystical aurora, with stars whisping through the crystal dome like a cosmic canvas",
     "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-05-20",
+    "image": "",
+    "prompt": "Beautiful autumn forest path, fallen leaves, fog, cinematic lighting scene, highly detailed aesthetic wallpaper",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-05-20",
+    "image": "",
+    "prompt": "A futuristic metropolis shrouded in a torrential downpour, with towering skyscrapers and holographic advertisements that dance across the rain-soaked streets like spectral fireflies in the night.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-20",
+    "image": "",
+    "prompt": "dreamy cyberpunk cityscape set against a pastel blue and purple twilight sky with neon streetlights and skyscrapers silhouetted against the colors of the setting sun",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-05-20",
+    "image": "",
+    "prompt": "A sleek, iridescent space station orbits a distant purple planet, with a kaleidoscope of stars streaming through a massive, transparent dome in the central hub.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-05-20",
+    "image": "",
+    "prompt": "A surreal underwater city formed by towering kelp forests sways gently in the current, illuminated by soft blue sunlight filtering down from above.",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
   }
 ]
