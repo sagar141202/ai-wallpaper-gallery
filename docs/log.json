@@ -694,5 +694,35 @@
     "image": "",
     "prompt": "A dystopian metropolis at dusk, with towering skyscrapers shrouded in a haze of smog and pollutants, illuminated only by flickering holographic advertisements and neon lights reflected off the rain-soaked streets.",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-22",
+    "image": "",
+    "prompt": "Beautiful ocean at midnight, bioluminescent waves, starry sky, ethereal scene, highly detailed aesthetic wallpaper",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-05-22",
+    "image": "",
+    "prompt": "A serene cottagecore scene unfolds amidst a sea of vibrant wildflowers in full bloom, as warm golden hour sunlight casts a golden glow upon delicate petals and intricately carved wooden beams.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-22",
+    "image": "",
+    "prompt": "Create a breathtaking wallpaper of a mystical floating city nestled among wispy, iridescent clouds, with a crystal waterfall cascading down one side and a radiant full moon shining down.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-05-22",
+    "image": "",
+    "prompt": "Beautiful underwater coral reef, light rays, vibrant tropical fish scene, highly detailed aesthetic wallpaper",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-05-22",
+    "image": "",
+    "prompt": "A minimalist Tokyo apartment, with dark hardwood floors and sleek industrial lighting, bathed in soft, golden tones of dawn breaking over the city.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
   }
 ]
