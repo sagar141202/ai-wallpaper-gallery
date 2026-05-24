@@ -754,5 +754,35 @@
     "image": "",
     "prompt": "Beautiful cyberpunk cityscape, neon lights, rain-soaked streets, night scene, highly detailed aesthetic wallpaper",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-24",
+    "image": "",
+    "prompt": "https://api.example.com/image/1920x1080?image=soft, ethereal light illuminates a tranquil, misty forest at dawn, with delicate, velvety petals of cherry blossoms cascading down ancient, gnarled tree branches",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-05-24",
+    "image": "",
+    "prompt": "A whimsical, abandoned lighthouse perched on a windswept rocky coastline, warm golden light spilling from its lantern room amidst swirling sea mist.",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-24",
+    "image": "",
+    "prompt": "A dense, misty autumn forest path winding through a tapestry of crimson and gold leaves, with shafts of golden light piercing the canopy above.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-05-24",
+    "image": "",
+    "prompt": "[Create a vibrant, ethereal aesthetic of a sprawling, futuristic orchard filled with a mesmerizing array of glowing flowers, softly illuminated by the golden warmth of sunrise in a utopian solarpunk world.]",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-24",
+    "image": "",
+    "prompt": "A mystical misty forest at dawn, with delicate ferns and morning dew, soft focus, ethereal light filtering through the trees.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
   }
 ]
