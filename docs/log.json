@@ -784,5 +784,35 @@
     "image": "",
     "prompt": "A mystical misty forest at dawn, with delicate ferns and morning dew, soft focus, ethereal light filtering through the trees.",
     "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-05-25",
+    "image": "",
+    "prompt": "A serene ocean at dusk with wispy clouds reflected in the calm, darkening waters, as the first stars begin to twinkle in the velvety night sky.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-05-25",
+    "image": "",
+    "prompt": "A rain-soaked cyberpunk cityscape at dusk, where skyscrapers tower above dark alleys and neon lights reflect off wet pavement like shattered sapphires.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-25",
+    "image": "",
+    "prompt": "Softly glowing neon lights dance across a velvety blackness as a full moon rises over a futuristic cityscape, reflected in a still neon-lit lake.",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-05-25",
+    "image": "",
+    "prompt": "Moonlit seashore cottage with delicate, lacy waves at the doorstep, soft pink and blue hues in the sky",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-25",
+    "image": "",
+    "prompt": "A serene cottagecore scene with a tiny, weathered wooden bridge spanning across a lush, vibrant wildflower meadow bathed in the warm, golden light of a dreamy golden hour.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
   }
 ]
