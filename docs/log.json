@@ -874,5 +874,35 @@
     "image": "",
     "prompt": "A whimsical, rustic cottage nestled within a sea of delicate, pastel-hued wildflowers as the sun sets at golden hour, casting a warm, honey-golden glow across the lush meadow.",
     "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-28",
+    "image": "",
+    "prompt": "A serene, foggy morning in a Japanese ryokan, captured in soft pastel hues with wispy cherry blossoms gently swaying outside the traditional sliding glass doors.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-28",
+    "image": "",
+    "prompt": "Ancient forest at dusk, warm golden light filtering through delicate lichen-covered branches, soft mist lingering among towering tree trunks.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-05-28",
+    "image": "",
+    "prompt": "A serene cottagecore scene at dusk, with a wildflower meadow swaying gently in the fading golden hour sunlight, where delicate purple irises and yellow daisies dance amidst a backdrop of whispering grasses and ancient trees.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-28",
+    "image": "",
+    "prompt": "A secluded, wooden cabin nestled deep within a serene forest, bathed in the warm, golden light of sunset as soft, powdery snowdrifts gently cascade down the rugged, moss-covered stone walls.",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-05-28",
+    "image": "",
+    "prompt": "a luminous, cylindrical space station floats amidst a swirling vortex of purple and blue nebulae, with the soft glow of its LED lights and the starry night sky reflected through its translucent glass dome.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
   }
 ]
