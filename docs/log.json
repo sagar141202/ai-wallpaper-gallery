@@ -934,5 +934,35 @@
     "image": "",
     "prompt": "A futuristic cyberpunk cityscape at sundown, with neon-drenched skyscrapers reflected in a tranquil lake, and a bright pink and orange sky",
     "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-05-30",
+    "image": "",
+    "prompt": "A whimsical cottage, shrouded in ivy and roses, stands at the edge of a sun-drenched wildflower meadow, bathed in the warm, golden hues of a dreamy sunset.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-30",
+    "image": "",
+    "prompt": "Softly glowing string lights dangle from the corners of a cluttered, dimly lit study with pastel-hued bookshelves and plush armchairs.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-05-30",
+    "image": "",
+    "prompt": "A serene, moonlit forest glade, where emerald ferns and towering silver birches converge beneath a star-studded, cerulean evening sky.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-05-30",
+    "image": "",
+    "prompt": "A futuristic, elevated greenhouse with a latticed metal framework, swathed in a tapestry of vibrant, trailing flora and illuminated by the warm, golden light of a rising sun.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-05-30",
+    "image": "",
+    "prompt": "A dystopian metropolis shrouded in a perpetual twilight of smog and rain, with towering skyscrapers reflecting neon skyscrapers and holographic advertisements dancing across their fa\u00e7ades. Amidst this urban jungle, pedestrians weave through the downpour with umbrellas and trench coats, seeking refuge from the cold and the crime.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
   }
 ]
