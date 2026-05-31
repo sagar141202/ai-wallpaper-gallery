@@ -964,5 +964,35 @@
     "image": "",
     "prompt": "A dystopian metropolis shrouded in a perpetual twilight of smog and rain, with towering skyscrapers reflecting neon skyscrapers and holographic advertisements dancing across their fa\u00e7ades. Amidst this urban jungle, pedestrians weave through the downpour with umbrellas and trench coats, seeking refuge from the cold and the crime.",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-05-31",
+    "image": "",
+    "prompt": "Ancient forest at twilight, towering cypress trees casting long shadows, mist-shrouded mountains in the distance",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-05-31",
+    "image": "",
+    "prompt": "A serene underwater scene featuring a kaleidoscope of coral formations, illuminated by warm sunlight that filters down from above, casting a mystical glow on a multitude of colorful tropical fish.",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-05-31",
+    "image": "",
+    "prompt": "A mist-shrouded, moonlit coastline at dawn, where the eerie silence is broken by the gentle lapping of iridescent waves against the weathered shore.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-05-31",
+    "image": "",
+    "prompt": "A serene cottage nestled among lush green hills, surrounded by a sea of vibrant wildflowers that sway gently in the breeze, bathed in the warm, golden light of sunset.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-05-31",
+    "image": "",
+    "prompt": "A rain-soaked cyberpunk cityscape sprawls across the horizon, with towering skyscrapers reflecting the neon lights of the crowded streets like a canvas of liquid silver and sapphire.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
   }
 ]
