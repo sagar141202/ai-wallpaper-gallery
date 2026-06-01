@@ -994,5 +994,35 @@
     "image": "",
     "prompt": "A rain-soaked cyberpunk cityscape sprawls across the horizon, with towering skyscrapers reflecting the neon lights of the crowded streets like a canvas of liquid silver and sapphire.",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-06-01",
+    "image": "2026-06-01_wallpaper_01.jpg",
+    "prompt": "Beautiful lofi aesthetic, soft pastel colors, cozy room, warm lighting scene, highly detailed aesthetic wallpaper",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-06-01",
+    "image": "2026-06-01_wallpaper_02.jpg",
+    "prompt": "Ancient oak tree, moss-covered branches twisted by weather, autumnal leaves ablaze with golden light",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-06-01",
+    "image": "2026-06-01_wallpaper_03.jpg",
+    "prompt": "Beautiful dark academia library, candle light, antique books, moody scene, highly detailed aesthetic wallpaper",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-06-01",
+    "image": "2026-06-01_wallpaper_04.jpg",
+    "prompt": "Beautiful ocean at midnight, bioluminescent waves, starry sky, ethereal scene, highly detailed aesthetic wallpaper",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-06-01",
+    "image": "2026-06-01_wallpaper_05.jpg",
+    "prompt": "A futuristic space station orbits a binary star system, its slender spires and gleaming metallic hull reflected in a crystal sphere at its center.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
   }
 ]
