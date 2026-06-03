@@ -1054,5 +1054,35 @@
     "image": "2026-06-02_wallpaper_05.jpg",
     "prompt": "A serene sylvan greenhouse, shrouded in misty morning dew, where verdant trellises and verdant foliage entwine with iridescent water droplets, illuminated by gentle solar rays.",
     "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-06-03",
+    "image": "2026-06-03_wallpaper_01.jpg",
+    "prompt": "Stunning landscape of a tranquil Japanese forest with delicate cherry blossoms swaying gently in the misty morning fog, surrounded by majestic mountains with moss-covered tree trunks and a calm serene lake.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-06-03",
+    "image": "2026-06-03_wallpaper_02.jpg",
+    "prompt": "A cyberpunk cityscape under a heavy storm, with rain-soaked streets reflecting intricate neon lights from towering skyscrapers, set against a dark and foreboding night sky.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-06-03",
+    "image": "2026-06-03_wallpaper_03.jpg",
+    "prompt": "Create a dreamy wallpaper featuring a serene study with vintage, cream-colored bookshelves adorned with leather-bound books, warm wooden accents, and soft, golden lighting that illuminates the space with gentle rays.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-06-03",
+    "image": "2026-06-03_wallpaper_04.jpg",
+    "prompt": "Misty tropical lagoon at dawn, soft pink haze, water lilies floating on iridescent surface, ancient trees reflecting symmetries.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-06-03",
+    "image": "2026-06-03_wallpaper_05.jpg",
+    "prompt": "A fantasy world of iridescent floating islands drift across a sapphire sea, surrounded by wispy waterfalls and luminous misty clouds",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
   }
 ]
