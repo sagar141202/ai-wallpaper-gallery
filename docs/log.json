@@ -1084,5 +1084,35 @@
     "image": "2026-06-03_wallpaper_05.jpg",
     "prompt": "A fantasy world of iridescent floating islands drift across a sapphire sea, surrounded by wispy waterfalls and luminous misty clouds",
     "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-06-04",
+    "image": "2026-06-04_wallpaper_01.jpg",
+    "prompt": "A midnight ocean canvas with undulating bioluminescent waves that shimmer like a trail of diamonds in the darkness, set against a tapestry of twinkling stars and a serene, moonless sky.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-06-04",
+    "image": "2026-06-04_wallpaper_02.jpg",
+    "prompt": "A tranquil, moonlit Japanese garden on a tranquil evening in late spring, amidst blooming cherry blossoms and lush greenery.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-06-04",
+    "image": "2026-06-04_wallpaper_03.jpg",
+    "prompt": "A secluded, moss-covered wooden cabin perched on the edge of a pristine, emerald-green lake, surrounded by the towering trunks of ancient, gnarled trees beneath a misty, dawn-lit sky.",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-06-04",
+    "image": "2026-06-04_wallpaper_04.jpg",
+    "prompt": "Beautiful autumn forest path, fallen leaves, fog, cinematic lighting scene, highly detailed aesthetic wallpaper",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-06-04",
+    "image": "2026-06-04_wallpaper_05.jpg",
+    "prompt": "an abandoned space colony on a distant moon, overgrown with glowing purple vines that crawl through the transparent walls of the habitats, illuminated by a crescent moon in the dark, star-filled sky",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
   }
 ]
