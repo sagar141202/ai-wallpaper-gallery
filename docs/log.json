@@ -1114,5 +1114,35 @@
     "image": "2026-06-04_wallpaper_05.jpg",
     "prompt": "an abandoned space colony on a distant moon, overgrown with glowing purple vines that crawl through the transparent walls of the habitats, illuminated by a crescent moon in the dark, star-filled sky",
     "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-06-05",
+    "image": "",
+    "prompt": "A mysterious, dimly lit ancient manuscript repository filled with dusty tomes, flickering gas lamps, and the soft whisper of forgotten knowledge.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-06-05",
+    "image": "",
+    "prompt": "Surreal, dreamlike scene of a pastel-colored dawn breaking over a retro-futuristic cityscape, with neon-lit skyscrapers and flying cars suspended high above a grid of pixelated streets.",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-06-05",
+    "image": "",
+    "prompt": "A mystic mist creeps over a sun-dappled, moss-covered forest path lined with towering ancient trees, their gnarled branches tangled with crimson and amber leaves.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-06-05",
+    "image": "",
+    "prompt": "A serene minimalist study illuminated by a single west-facing window cast a warm ambiance on the soft gray walls, subtle bookshelf, and vintage wooden desk.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-06-05",
+    "image": "",
+    "prompt": "Beautiful lofi aesthetic, soft pastel colors, cozy room, warm lighting scene, highly detailed aesthetic wallpaper",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
   }
 ]
