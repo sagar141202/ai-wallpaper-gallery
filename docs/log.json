@@ -1144,5 +1144,35 @@
     "image": "",
     "prompt": "Beautiful lofi aesthetic, soft pastel colors, cozy room, warm lighting scene, highly detailed aesthetic wallpaper",
     "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-06-06",
+    "image": "2026-06-06_wallpaper_01.jpg",
+    "prompt": "A serene moonlit beach under a canopy of twinkling stars, where gentle waves infused with bioluminescent creatures dance across the sand.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-06-06",
+    "image": "2026-06-06_wallpaper_02.jpg",
+    "prompt": "dreamy digital sunset on a beach with wavy palm trees, pastel pink clouds, and distressed VHS distortion",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-06-06",
+    "image": "2026-06-06_wallpaper_03.jpg",
+    "prompt": "Create a whimsical cottagecore scene with a lush, vibrant wildflower meadow as the backdrop, set against a warm golden hour sunlight that casts long, dreamy shadows across the rolling hills.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-06-06",
+    "image": "2026-06-06_wallpaper_04.jpg",
+    "prompt": "Beneath an amethyst sky, a labyrinth of ancient stone arches stretches across a rust-hued arid landscape, shrouded in a mystical twilight.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-06-06",
+    "image": "2026-06-06_wallpaper_05.jpg",
+    "prompt": "A futuristic space station orbiting Neptune, with iridescent auroras dancing across its sleek metallic hull and the glistening stars of the cosmos shining through the transparent glass dome of its central observatory.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
   }
 ]
