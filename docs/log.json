@@ -1174,5 +1174,35 @@
     "image": "2026-06-06_wallpaper_05.jpg",
     "prompt": "A futuristic space station orbiting Neptune, with iridescent auroras dancing across its sleek metallic hull and the glistening stars of the cosmos shining through the transparent glass dome of its central observatory.",
     "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-06-07",
+    "image": "2026-06-07_wallpaper_01.jpg",
+    "prompt": "A dystopian metropolis shrouded in darkness, where towering skyscrapers stretch towards the rain-drenched sky, their neon fa\u00e7ades glowing like electric rivers as the city hums with life beneath the deluge.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-06-07",
+    "image": "2026-06-07_wallpaper_02.jpg",
+    "prompt": "A serene, vibrant solorpunk greenhouse with rows of bioluminescent mushrooms illuminating the gentle curves of an organic, hand-hewn wooden trellis, amidst lush foliage and radiant natural light.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-06-07",
+    "image": "2026-06-07_wallpaper_03.jpg",
+    "prompt": "Beautiful underwater coral reef, light rays, vibrant tropical fish scene, highly detailed aesthetic wallpaper",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-06-07",
+    "image": "2026-06-07_wallpaper_04.jpg",
+    "prompt": "A dreamy neon-lit Tokyo streetscape at dusk, blurred palm tree silhouettes, and VHS distortion effects in pastel pink hue",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-06-07",
+    "image": "2026-06-07_wallpaper_05.jpg",
+    "prompt": "A midnight horizon shrouded in mist, with undulating waves aglow from a bioluminescent bloom of glowing plankton, set against a backdrop of twinkling constellations.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
   }
 ]
