@@ -1204,5 +1204,35 @@
     "image": "2026-06-07_wallpaper_05.jpg",
     "prompt": "A midnight horizon shrouded in mist, with undulating waves aglow from a bioluminescent bloom of glowing plankton, set against a backdrop of twinkling constellations.",
     "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-06-08",
+    "image": "2026-06-08_wallpaper_01.jpg",
+    "prompt": "a secluded, moss-covered forest cabin with smoke slowly drifting from the chimney, softly illuminated by the golden light of a full moon",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-06-08",
+    "image": "2026-06-08_wallpaper_02.jpg",
+    "prompt": "Vibrant, glowing water lilies on a tranquil pond, serene sunset behind misty bamboo forests",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-06-08",
+    "image": "2026-06-08_wallpaper_03.jpg",
+    "prompt": "A serene, dimly lit bedroom with soft peach walls and plush velvet furniture, surrounded by a faint mist of warm, golden light and adorned with delicate, hand-painted flower patterns.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-06-08",
+    "image": "2026-06-08_wallpaper_04.jpg",
+    "prompt": "Beautiful cottagecore, wildflower meadow, golden hour sunlight, dreamy scene, highly detailed aesthetic wallpaper",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-06-08",
+    "image": "2026-06-08_wallpaper_05.jpg",
+    "prompt": "Create a serene, minimalist studio with walls painted in a soft, warm gray and large windows that filter the sunlight, casting intricate shadows on the polished concrete floor.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
   }
 ]
