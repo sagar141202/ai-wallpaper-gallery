@@ -1234,5 +1234,35 @@
     "image": "2026-06-08_wallpaper_05.jpg",
     "prompt": "Create a serene, minimalist studio with walls painted in a soft, warm gray and large windows that filter the sunlight, casting intricate shadows on the polished concrete floor.",
     "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-06-09",
+    "image": "2026-06-09_wallpaper_01.jpg",
+    "prompt": "A serene, moonlit Japanese tea house nestled among a grove of weeping willows, their branches swaying gently in the night breeze, set against a backdrop of mist-shrouded mountains.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-06-09",
+    "image": "2026-06-09_wallpaper_02.jpg",
+    "prompt": "A futuristic cityscape in the style of cyberpunk, neon-lit skyscrapers, reflective wet pavement, and a deep indigo night sky with streaks of purple and silver",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-06-09",
+    "image": "2026-06-09_wallpaper_03.jpg",
+    "prompt": "A dimly lit, 19th-century study with walls lined in ancient leather-bound tomes, warm golden candlelight dancing across the spines.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-06-09",
+    "image": "2026-06-09_wallpaper_04.jpg",
+    "prompt": "A serene misty morning in a secluded forest, soft diffused sunlight filtering through the treetops, moss-covered stones at the forest floor",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-06-09",
+    "image": "2026-06-09_wallpaper_05.jpg",
+    "prompt": "Floating islands with moss-covered ruins, waterfalls cascading into the misty veil below, surrounded by wispy aurora-lit clouds.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
   }
 ]
