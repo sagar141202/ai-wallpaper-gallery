@@ -1264,5 +1264,35 @@
     "image": "2026-06-09_wallpaper_05.jpg",
     "prompt": "Floating islands with moss-covered ruins, waterfalls cascading into the misty veil below, surrounded by wispy aurora-lit clouds.",
     "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-06-10",
+    "image": "2026-06-10_wallpaper_01.jpg",
+    "prompt": "A gleaming, curved space station floating amidst a nebula, with iridescent stars streaming through its crystal dome like a celestial aurora.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-06-10",
+    "image": "2026-06-10_wallpaper_02.jpg",
+    "prompt": "Surreal underwater greenhouse, an ethereal fusion of coral and glass, glowing with soft blue bioluminescent light beneath the ocean's surface.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-06-10",
+    "image": "2026-06-10_wallpaper_03.jpg",
+    "prompt": "A majestic floating island city suspended amidst a tapestry of iridescent clouds and wispy cirrus, with crystalline waterfalls cascading into a radiant turquoise ocean below.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-06-10",
+    "image": "2026-06-10_wallpaper_04.jpg",
+    "prompt": "A serene and minimalist living space, featuring a subtle gradient of off-white and beige hues on the walls, with floor-to-ceiling industrial windows that cast soft, warm shadows on a smooth, polished hardwood floor.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-06-10",
+    "image": "2026-06-10_wallpaper_05.jpg",
+    "prompt": "Beautiful autumn forest path, fallen leaves, fog, cinematic lighting scene, highly detailed aesthetic wallpaper",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
   }
 ]
