@@ -1294,5 +1294,35 @@
     "image": "2026-06-10_wallpaper_05.jpg",
     "prompt": "Beautiful autumn forest path, fallen leaves, fog, cinematic lighting scene, highly detailed aesthetic wallpaper",
     "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-06-11",
+    "image": "2026-06-11_wallpaper_01.jpg",
+    "prompt": "A mystical, moonlit bamboo forest in late autumn, with delicate golden maple leaves clinging to twisted stalks and a misty veil shrouding the surroundings.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-06-11",
+    "image": "2026-06-11_wallpaper_02.jpg",
+    "prompt": "A serene, minimalist study with floor-to-ceiling windows flooding the room with soft, warm natural light, casting intricate shadows on polished concrete floors and sleek wood accents.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-06-11",
+    "image": "2026-06-11_wallpaper_03.jpg",
+    "prompt": "Misty veil of a crescent moon rises over the inky black ocean, where iridescent bioluminescent waves undulate, reflecting starlight from a velvet expanse of diamonds in the night sky.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-06-11",
+    "image": "2026-06-11_wallpaper_04.jpg",
+    "prompt": "Deep within a misty, moonlit forest, a lone figure walks down an overgrown path strewn with vibrant autumn leaves, as the skeletal branches of the trees stretch upwards like bony fingers.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-06-11",
+    "image": "2026-06-11_wallpaper_05.jpg",
+    "prompt": "A mystical, glowing forest glade in a futuristic, eco-friendly village, where towering trees and vines intertwine with iridescent, energy-harvesting crystals, radiating an ethereal blue-green light.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
   }
 ]
