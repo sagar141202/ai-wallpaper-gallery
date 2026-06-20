@@ -1564,5 +1564,35 @@
     "image": "",
     "prompt": "A futuristic space station orbits a distant planet, its towering spires and iridescent domes reflecting hues of sapphire and amethyst in the starlight.",
     "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-06-20",
+    "image": "",
+    "prompt": "Majestic seaside lighthouse, worn stone fa\u00e7ade, golden sunrise illumination with ocean mist swirling around the base",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-06-20",
+    "image": "",
+    "prompt": "A dystopian metropolis on a rainy night, with towering skyscrapers of glass and steel reflecting vibrant neon hues of cobalt blue and emerald green, as pedestrians rush beneath umbrellas in a desperate bid for shelter.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-06-20",
+    "image": "",
+    "prompt": "Vibrant autumn forest path shrouded in mystical fog, where ancient trees stand watch over a sea of fiery fallen leaves and flickering embers.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-06-20",
+    "image": "",
+    "prompt": "A cozy, dimly lit reading nook with soft pastel hues and warm golden lighting, where plush throw blankets, worn leather armchairs, and vintage bookshelves blend together in perfect harmony.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-06-20",
+    "image": "",
+    "prompt": "Generate an epic fantasy wallpaper featuring a mystical floating archipelago suspended above a sea of iridescent mist, surrounded by wispy clouds of sapphire and amethyst.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
   }
 ]
