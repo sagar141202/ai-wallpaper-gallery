@@ -1624,5 +1624,35 @@
     "image": "",
     "prompt": "Majestic mountain range at golden hour, towering granite peaks fading into a fiery crimson sky with wispy clouds",
     "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-06-22",
+    "image": "",
+    "prompt": "Moonlit cypress forest bathed in an ethereal glow, wispy fog swirling between silver-trunked sentinels.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-06-22",
+    "image": "",
+    "prompt": "A sunken ship at the bottom of a tranquil turquoise ocean, covered in vibrant coral and schools of iridescent blue fish darting past its rusty hull, with shards of sunlight streaming down from above.",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-06-22",
+    "image": "",
+    "prompt": "A dimly lit, cobweb-covered study with worn leather armchairs, vintage globes, and an extensive shelf of ancient tomes illuminated by the warm, flickering glow of beeswax candles.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-06-22",
+    "image": "",
+    "prompt": "A whimsical cottagecore scene at the edge of a wildflower meadow, with delicate petals in hues of lavender and chamomile gently swaying in the warm golden hour sunlight, and a faint mist of dew lingering on the grass.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-06-22",
+    "image": "",
+    "prompt": "A futuristic, bioluminescent forest with luminescent fungi, glowing tree bark, and iridescent insect wings in a soft, ethereal light.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
   }
 ]
