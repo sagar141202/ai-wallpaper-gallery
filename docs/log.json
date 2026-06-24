@@ -1684,5 +1684,35 @@
     "image": "",
     "prompt": "A serene fantasy landscape of floating mystic islands, shimmering aurora-lit waterfalls cascading from ethereal mist-shrouded precipices, amidst a tapestry of gossamer, wispy clouds embroidered with iridescent starlight across a sapphire sky.",
     "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-06-24",
+    "image": "",
+    "prompt": "A dystopian metropolis at dusk, with looming skyscrapers reflecting fractured rain droplets like shattered glass, set against a dark canvas of inky purple and sodium orange hues.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-06-24",
+    "image": "",
+    "prompt": "A majestic, neon-lit space station floats amidst a tapestry of swirling stars and galaxies, its crystalline glass dome refracting rainbow hues across the cosmos.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-06-24",
+    "image": "",
+    "prompt": "A serene moonlit forest with delicate fireflies swarming beneath the canopy of a towering cypress tree in autumn.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-06-24",
+    "image": "",
+    "prompt": "A dimly lit, mystical study hidden within ancient stone walls, adorned with cobweb-covered tomes and illuminated solely by soft, golden candlelight.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-06-24",
+    "image": "",
+    "prompt": "A mystical dawn in a misty forest, where a winding stone path is shrouded in a veil of fog and illuminated by a warm golden light that filters through a canopy of autumn foliage.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
   }
 ]
