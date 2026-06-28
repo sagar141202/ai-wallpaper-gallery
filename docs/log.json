@@ -1804,5 +1804,35 @@
     "image": "",
     "prompt": "surreal neon lights reflected in a still, midnight-blue ocean, with wispy palm fronds swaying above the beach",
     "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-06-28",
+    "image": "",
+    "prompt": "A serene summer evening in a neon-lit, retro-futuristic cityscape, with pastel-colored skyscrapers and a deep blue-green sky filled with a fiery sunset of hues of coral, peach, and gold.",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-06-28",
+    "image": "",
+    "prompt": "A majestic, spherical space station floats amidst a swirling vortex of neon stars, its gleaming metallic curves reflected in the vast, crystal-clear expanse of the glass dome at its center.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-06-28",
+    "image": "",
+    "prompt": "A whimsical cottage nestled among blooming wildflowers, with a delicate lattice fa\u00e7ade and smoke drifting lazily from the chimney, set against a warm golden hour sky with a crescent moon hanging low.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-06-28",
+    "image": "",
+    "prompt": "A dimly lit, cyberpunk city at night, with towering skyscrapers and sprawling streets, their rain-soaked surfaces reflecting the vibrant neon lights of a million holographic advertisements and street signs.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-06-28",
+    "image": "",
+    "prompt": "Vast underwater cityscape with glowing jellyfish lanterns illuminating a vibrant coral reef teeming with tropical fish in shades of turquoise and sapphire.",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
   }
 ]
