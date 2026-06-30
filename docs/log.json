@@ -1864,5 +1864,35 @@
     "image": "",
     "prompt": "A secluded, rustic mountain lodge on a moonlit winter's night, with soft candlelight spilling from the windows and snowflakes gently falling in the silence.",
     "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-06-30",
+    "image": "",
+    "prompt": "Minimalist Tokyo-inspired apartment, charcoal grey walls, warm wood accents, subtle neon glow in the background, soft focus.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-06-30",
+    "image": "",
+    "prompt": "a serene, secluded forest glade at dusk with a waterfall cascading into a misty pool, surrounded by fireflies and the soft glow of lanterns",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-06-30",
+    "image": "",
+    "prompt": "A serpentine crystal bridge stretches between two floating islands, each cloaked in misty forests with delicate, glowing vines, beneath a sky ablaze with colors of an aurora borealis.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-06-30",
+    "image": "",
+    "prompt": "Beautiful solarpunk greenhouse, lush plants, natural light, utopian scene, highly detailed aesthetic wallpaper",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-06-30",
+    "image": "",
+    "prompt": "A dystopian cyberpunk metropolis shrouded in a perpetual rainstorm, with towering skyscrapers reflecting neon purple and blue light shows onto wet, misty streets.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
   }
 ]
