@@ -1894,5 +1894,35 @@
     "image": "",
     "prompt": "A dystopian cyberpunk metropolis shrouded in a perpetual rainstorm, with towering skyscrapers reflecting neon purple and blue light shows onto wet, misty streets.",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-07-01",
+    "image": "2026-07-01_wallpaper_01.jpg",
+    "prompt": "A mysterious, 19th-century study with flickering candles casting eerie shadows on walls lined with old leather-bound tomes, surrounded by velvet drapes draped in a tattered, gothic elegance",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-07-01",
+    "image": "2026-07-01_wallpaper_02.jpg",
+    "prompt": "A mystical, golden-hued autumn forest path winding through a veil of eerie, shimmering mist, with fallen leaves of crimson and amber crunching beneath the soft focus of cinematic lighting.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-07-01",
+    "image": "2026-07-01_wallpaper_03.jpg",
+    "prompt": "A majestic, shimmering waterfall cascades from the rim of a glittering, iridescent floating island, where crystalline spires pierce the sky and delicate, swirling clouds in hues of sapphire and amethyst drift lazily by.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-07-01",
+    "image": "2026-07-01_wallpaper_04.jpg",
+    "prompt": "Vibrant, dreamy sunset in a Tokyo alleyway, 90s-inspired grid overlays with Japanese characters, neon-lit billboards amidst swaying palm trees.",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-07-01",
+    "image": "2026-07-01_wallpaper_05.jpg",
+    "prompt": "Softly glowing lanterns illuminate a mist-shrouded bamboo forest on a dewy summer morning, with wispy clouds drifting lazily across the sky.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
   }
 ]
