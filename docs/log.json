@@ -2044,5 +2044,35 @@
     "image": "2026-07-05_wallpaper_05.jpg",
     "prompt": "A gleaming, iridescent space station with undulating curves and crystalline windows glows softly in the inky blackness of space, surrounded by constellations of blazing stars that refract through the translucent dome like shards of broken glass.",
     "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-07-06",
+    "image": "2026-07-06_wallpaper_01.jpg",
+    "prompt": "A mystical forest at dawn, soft mist swirling between ancient trees with gnarled branches, warm golden light casting long shadows.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-07-06",
+    "image": "2026-07-06_wallpaper_02.jpg",
+    "prompt": "A serene, monochromatic room bathed in soft lavender twilight, with delicate, watercolor-style floral patterns dancing across the walls and a plush, oversized armchair in the center.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-07-06",
+    "image": "2026-07-06_wallpaper_03.jpg",
+    "prompt": "Generate an atmospheric cyberpunk cityscape at dusk with towering skyscrapers, rain-soaked streets, and vibrant neon lights reflecting off puddles and wet pavement.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-07-06",
+    "image": "2026-07-06_wallpaper_04.jpg",
+    "prompt": "A tranquil Japanese tea house nestled among wispy bamboo stalks, soft pink katsura blooms, and mist-shrouded Arashiyama mountains at dawn.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-07-06",
+    "image": "2026-07-06_wallpaper_05.jpg",
+    "prompt": "Beautiful solarpunk greenhouse, lush plants, natural light, utopian scene, highly detailed aesthetic wallpaper",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
   }
 ]
