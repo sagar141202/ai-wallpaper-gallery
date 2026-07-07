@@ -2074,5 +2074,35 @@
     "image": "2026-07-06_wallpaper_05.jpg",
     "prompt": "Beautiful solarpunk greenhouse, lush plants, natural light, utopian scene, highly detailed aesthetic wallpaper",
     "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-07-07",
+    "image": "2026-07-07_wallpaper_01.jpg",
+    "prompt": "A futuristic cityscape under a torrential downpour, where a lattice of neon-lit skyscrapers pierces the sky like a fractured dreamscape, surrounded by umbrellas of rain that dance in the wind",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-07-07",
+    "image": "2026-07-07_wallpaper_02.jpg",
+    "prompt": "An ancient, moss-covered stone cottage nestled in a rolling hillside meadow, soft sunlight filtering through leaves and casting a warm golden glow on the rustic wooden door and windows.",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-07-07",
+    "image": "2026-07-07_wallpaper_03.jpg",
+    "prompt": "A serene fantasy floating island oasis, surrounded by wispy magical clouds that shimmer in hues of iridescent turquoise, with a cascading crystal-clear waterfall that forms a misty veil over emerald-green treetops.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-07-07",
+    "image": "2026-07-07_wallpaper_04.jpg",
+    "prompt": "Beautiful ocean at midnight, bioluminescent waves, starry sky, ethereal scene, highly detailed aesthetic wallpaper",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-07-07",
+    "image": "2026-07-07_wallpaper_05.jpg",
+    "prompt": "A minimalist Scandinavian apartment, characterized by pale wood accents and a neutral color palette, bathed in the warm, golden light of late afternoon.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
   }
 ]
