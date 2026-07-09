@@ -2134,5 +2134,35 @@
     "image": "2026-07-08_wallpaper_05.jpg",
     "prompt": "A serene cottage nestled among a tapestry of soft, pastel-hued wildflowers sways gently in a warm breeze as the vibrant hues of sunset paint the sky with soft brushstrokes of peach and gold.",
     "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-07-09",
+    "image": "2026-07-09_wallpaper_01.jpg",
+    "prompt": "A minimalist Tokyo apartment, features a large floor-to-ceiling window with warm morning sunlight casting soft shadows on the polished concrete floor and minimalist wooden furniture against a crisp white wall.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-07-09",
+    "image": "2026-07-09_wallpaper_02.jpg",
+    "prompt": "A mystical forest at dawn, soft mist envelops ancient trees, warm golden light filtering through leaves.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-07-09",
+    "image": "2026-07-09_wallpaper_03.jpg",
+    "prompt": "A serene, futuristic botanical garden at dusk, with soft, warm light pouring in through a domed glass roof and lush, vibrant greenery spilling over ancient wooden trellises, in gentle harmony with the night sky.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-07-09",
+    "image": "2026-07-09_wallpaper_04.jpg",
+    "prompt": "A mystical Japanese tea house nestled among twisted cedar trees, their gnarled branches tangled in a web of twinkling autumn maple leaves, with a misty dawn breaking over the sacred mountains.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-07-09",
+    "image": "2026-07-09_wallpaper_05.jpg",
+    "prompt": "Beautiful dark academia library, candle light, antique books, moody scene, highly detailed aesthetic wallpaper",
+    "style": "dark academia library, candle light, antique books, moody"
   }
 ]
