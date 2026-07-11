@@ -2194,5 +2194,35 @@
     "image": "2026-07-10_wallpaper_05.jpg",
     "prompt": "a sleek, glowing cylindrical space station suspended amidst a swirling maelstrom of electric blue and crimson nebulae, with crystal clear glass panels reflecting a glittering tapestry of stars",
     "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-07-11",
+    "image": "2026-07-11_wallpaper_01.jpg",
+    "prompt": "A futuristic cityscape at twilight, with skyscrapers and neon lights reflected in a calm, dark blue lake",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-07-11",
+    "image": "2026-07-11_wallpaper_02.jpg",
+    "prompt": "A sprawling, iridescent fantasy world with floating islands of crystal and jade, surrounded by luminous waterfalls that cascade into a shimmering misty expanse.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-07-11",
+    "image": "2026-07-11_wallpaper_03.jpg",
+    "prompt": "Softly illuminated, monochromatic bathroom with sleek, minimalist fixtures and a large, mirror-tiled wall against a warm, gray background.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-07-11",
+    "image": "2026-07-11_wallpaper_04.jpg",
+    "prompt": "A calming, serene bedroom with soft pastel pink and lavender hues, warm golden lighting, and plush throw blankets draped elegantly over a distressed wooden bedframe.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-07-11",
+    "image": "2026-07-11_wallpaper_05.jpg",
+    "prompt": "Golden dusk settles over a dense autumn forest, casting long shadows across a misty, worn dirt path littered with crunchy, crimson fallen leaves.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
   }
 ]
