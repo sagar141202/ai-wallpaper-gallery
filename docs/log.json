@@ -2254,5 +2254,35 @@
     "image": "2026-07-12_wallpaper_05.jpg",
     "prompt": "Softly lit, misty morning in a vintage-inspired study, with warm golden light spilling onto plush, cream-colored armchairs and a weathered, oak desk adorned with antique quill pens.",
     "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-07-13",
+    "image": "2026-07-13_wallpaper_01.jpg",
+    "prompt": "A serene, luminous moonbase with an undulating glass ceiling reflecting starlight, surrounded by a misty lunar atmosphere with towering, crystal spires.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-07-13",
+    "image": "",
+    "prompt": "A mystical, mist-shrouded forest path unfolds beneath a canvas of rustling, golden leaves, as the soft light of dusk dances through the delicate, filigree branches of ancient trees.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-07-13",
+    "image": "2026-07-13_wallpaper_03.jpg",
+    "prompt": "A verdant, self-sustaining solarpunk greenhouse, bathed in warm golden light that filters through a kaleidoscope of colorful stained glass panes, with lush greenery and vibrant flowers cascading down walls and trellises.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-07-13",
+    "image": "2026-07-13_wallpaper_04.jpg",
+    "prompt": "A mystical moonlit forest, where glowing mushrooms illuminate the dark canopy above, casting an otherworldly light on ancient, gnarled tree trunks.",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-07-13",
+    "image": "2026-07-13_wallpaper_05.jpg",
+    "prompt": "A serene, moonlit winter forest scene with towering trees, snow-covered ground, and a faint mist rising from the forest floor.",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
   }
 ]
