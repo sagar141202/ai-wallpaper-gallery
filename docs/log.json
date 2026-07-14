@@ -2284,5 +2284,35 @@
     "image": "2026-07-13_wallpaper_05.jpg",
     "prompt": "A serene, moonlit winter forest scene with towering trees, snow-covered ground, and a faint mist rising from the forest floor.",
     "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-07-14",
+    "image": "2026-07-14_wallpaper_01.jpg",
+    "prompt": "A dimly lit, labyrinthine library with walls lined by towering shelves of leather-bound tomes, the flickering flame of a single vintage lantern casting an eerie, golden glow across the dusty expanse.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-07-14",
+    "image": "",
+    "prompt": "A secluded, thatched-roof cottage stands amidst a vibrant, dreamy wildflower meadow, bathed in the warm, golden hues of sunset as the sky is painted with hues of blush pink and lavender.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-07-14",
+    "image": "2026-07-14_wallpaper_03.jpg",
+    "prompt": "Beautiful ocean at midnight, bioluminescent waves, starry sky, ethereal scene, highly detailed aesthetic wallpaper",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-07-14",
+    "image": "2026-07-14_wallpaper_04.jpg",
+    "prompt": "a serene minimalist office with polished concrete floors, large glass windows, and soft pastel accents in calming hues",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-07-14",
+    "image": "",
+    "prompt": "A tranquil lake at sunrise, mirrored stillness of the water and surrounding trees reflected in its glassy surface under an orange-hued sky.",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
   }
 ]
