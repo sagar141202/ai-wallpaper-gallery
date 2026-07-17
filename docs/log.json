@@ -2374,5 +2374,35 @@
     "image": "",
     "prompt": "A neon-lit Tokyo cityscape at dusk, reflected in a serene lake surrounded by cherry blossom trees and a soft pink haze.",
     "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-07-17",
+    "image": "",
+    "prompt": "A whimsical cottage nestled beneath a sprawling willow tree, surrounded by a tapestry of golden hour sunlight that casts long shadows across a lush wildflower meadow, with wispy clouds drifting lazily across a blue sky.",
+    "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-07-17",
+    "image": "",
+    "prompt": "A mystical, gothic-inspired study, shrouded in darkness, illuminated by flickering candles casting eerie shadows on walls adorned with ancient, leather-bound tomes and vintage glass jars filled with mysterious artifacts.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-07-17",
+    "image": "",
+    "prompt": "A serene minimalist living room with reclaimed wooden flooring, floor-to-ceiling windows, and a plush area rug, softened by the warm glow of a string of fairy lights.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-07-17",
+    "image": "",
+    "prompt": "A mystical underwater scene featuring a sprawling coral reef with iridescent tendrils swaying in the gentle ocean currents, as sunlight filters down from above, casting an ethereal glow upon a school of rainbow-colored butterflyfish.",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
+  },
+  {
+    "date": "2026-07-17",
+    "image": "",
+    "prompt": "A sleek, neon-lit space station with a massive central atrium, illuminated by a swirling galaxy of stars and planets shining through its glass dome, surrounded by a halo of warm luminescent mist.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
   }
 ]
