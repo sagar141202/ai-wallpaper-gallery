@@ -2674,5 +2674,35 @@
     "image": "",
     "prompt": "A gleaming, high-tech space station pierces the darkness of a distant galaxy, its crystalline glass dome reflecting a kaleidoscope of colors from the stars and asteroids beyond.",
     "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-07-27",
+    "image": "",
+    "prompt": "A serene study with plush velvet armchairs in muted mauve and sage green hues, bathed in warm candlelight and surrounded by floor-to-ceiling bookshelves with leather-bound tomes.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-07-27",
+    "image": "",
+    "prompt": "A futuristic underwater space station suspended amidst a nebula, with iridescent blue auroras dancing across the curved walls and a glittering galaxy visible through the transparent dome.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-07-27",
+    "image": "",
+    "prompt": "Muted 8-bit graphics overlay a tranquil seaside scene at dusk, with warm orange hues bleeding into a deep pink sky and palm trees silhouetted against the fading light.",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-07-27",
+    "image": "",
+    "prompt": "A serene minimalist bedroom with a wall of floor-to-ceiling glass doors that lead to a lush rooftop garden, set against a warm orange-tinted dusk sky.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-07-27",
+    "image": "",
+    "prompt": "A breathtaking fantasy floating island, shrouded in mystical fog, rises above a crystal-clear lake amidst a breathtaking sunset with vibrant oranges and pinks.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
   }
 ]
