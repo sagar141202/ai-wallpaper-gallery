@@ -2704,5 +2704,35 @@
     "image": "",
     "prompt": "A breathtaking fantasy floating island, shrouded in mystical fog, rises above a crystal-clear lake amidst a breathtaking sunset with vibrant oranges and pinks.",
     "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-07-28",
+    "image": "",
+    "prompt": "Beautiful dark academia library, candle light, antique books, moody scene, highly detailed aesthetic wallpaper",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-07-28",
+    "image": "",
+    "prompt": "Generate a serene lofi aesthetic wallpaper depicting a plush, oversized armchair situated beneath a majestic, stained-glass ceiling in a sun-drenched, vintage-style library with warm, honey-colored wood accents and lush, vibrant greenery spilling over the room's edges.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-07-28",
+    "image": "",
+    "prompt": "Immerse in a mystical realm where iridescent floating islands, born from shimmering mist and infused with ethereal luminescence, drift effortlessly amidst crystal waterfalls and wispy, gossamer clouds that appear to hold the whispers of ancient magic.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-07-28",
+    "image": "",
+    "prompt": "A mystical forest glade at dusk, where a lone misty fog swirls around the delicate tracery of gnarled tree branches and a carpet of fallen amber and crimson leaves crunches beneath the whispering wind.",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-07-28",
+    "image": "",
+    "prompt": "A dystopian cyberpunk cityscape at midnight, with rain-soaked streets reflecting neon lights from towering skyscrapers and holographic advertisements.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
   }
 ]
