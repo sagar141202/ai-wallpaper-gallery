@@ -2764,5 +2764,35 @@
     "image": "",
     "prompt": "Imagine a serene cottagecore scene set amidst a lush, vibrant wildflower meadow at golden hour, with warm sunlight filtering through delicate petals and soft grasses swaying gently in the breeze.",
     "style": "cottagecore, wildflower meadow, golden hour sunlight, dreamy"
+  },
+  {
+    "date": "2026-07-30",
+    "image": "",
+    "prompt": "A minimalist Tokyo studio apartment at dawn, white walls illuminated by soft morning light through floor-to-ceiling windows, subtle shadows on polished concrete floors.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-07-30",
+    "image": "",
+    "prompt": "A dimly lit, Gothic-inspired library with towering shelves lined with ancient, leather-bound tomes, soft candlelight casting an ethereal glow on the polished wooden floors.",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-07-30",
+    "image": "",
+    "prompt": "[A shimmering ocean at sunset, wisps of clouds painted with hues of crimson and gold, as gentle waves carry bioluminescent creatures, their ethereal glow illuminating the darkening sea.]",
+    "style": "ocean at midnight, bioluminescent waves, starry sky, ethereal"
+  },
+  {
+    "date": "2026-07-30",
+    "image": "",
+    "prompt": "A luminous, cylindrical space station orbits a vibrant, starry galaxy, with an expansive glass dome serving as a transparent, crystal-like observatory ceiling, radiating an ethereal glow.",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
+  },
+  {
+    "date": "2026-07-30",
+    "image": "",
+    "prompt": "Elevate a serene snowy village scene at dusk, with twinkling festive lights adorning quaint wooden houses, and gentle snowfall casting a mystical glow.",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
   }
 ]
