@@ -2884,5 +2884,35 @@
     "image": "2026-08-02_wallpaper_05.jpg",
     "prompt": "Moonlit stroll through a hidden bamboo forest, where soft light filters through delicate fronds and the air is filled with the haunting sweetness of blooming plum blossoms.",
     "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-08-03",
+    "image": "2026-08-03_wallpaper_01.jpg",
+    "prompt": "Beautiful dark academia library, candle light, antique books, moody scene, highly detailed aesthetic wallpaper",
+    "style": "dark academia library, candle light, antique books, moody"
+  },
+  {
+    "date": "2026-08-03",
+    "image": "2026-08-03_wallpaper_02.jpg",
+    "prompt": "A serene, lofi-inspired scene featuring a plush, cream-colored rug and comfortable armchair nestled beneath a floor-to-ceiling window, bathed in the warm, honey-hued glow of early dawn.",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-08-03",
+    "image": "2026-08-03_wallpaper_03.jpg",
+    "prompt": "A serene, mid-century solarpunk greenhouse bathed in dappled, warm sunlight, surrounded by verdant tropical plants and vibrant orchids.",
+    "style": "solarpunk greenhouse, lush plants, natural light, utopian"
+  },
+  {
+    "date": "2026-08-03",
+    "image": "2026-08-03_wallpaper_04.jpg",
+    "prompt": "A dystopian cyberpunk cityscape at night, with neon lights reflecting off rain-soaked streets and skyscrapers that seem to touch the clouds",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-08-03",
+    "image": "2026-08-03_wallpaper_05.jpg",
+    "prompt": "A modern Zen-inspired living room, with sleek glass doors, subtle floor tiles, and a minimalist wooden wall in soft, honey-toned wood",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
   }
 ]
