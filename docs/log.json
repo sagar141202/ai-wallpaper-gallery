@@ -2974,5 +2974,35 @@
     "image": "2026-08-05_wallpaper_05.jpg",
     "prompt": "A misty forest path winding through a tunnel of golden and crimson fallen leaves, as morning sunlight filters through the foliage, casting dappled shadows on the forest floor.",
     "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-08-06",
+    "image": "2026-08-06_wallpaper_01.jpg",
+    "prompt": "Golden sunrise behind a misty waterfall in a hidden cave, moss-covered stones and vines",
+    "style": "snowy mountain cabin, warm glow from windows, snowfall"
+  },
+  {
+    "date": "2026-08-06",
+    "image": "2026-08-06_wallpaper_02.jpg",
+    "prompt": "A dystopian metropolis at dusk, with towering skyscrapers shrouded in a mist of torrential rain, their neon lights reflecting off the wet pavement like a kaleidoscope of fractured glass.",
+    "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-08-06",
+    "image": "2026-08-06_wallpaper_03.jpg",
+    "prompt": "A whimsical floating island with a lush, emerald-green forest, a serene crystal-clear lake, and a majestic waterfall cascading into the sky, suspended amidst a tapestry of iridescent, shifting clouds.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-08-06",
+    "image": "2026-08-06_wallpaper_04.jpg",
+    "prompt": "A secluded, velvety-black forest glade bathed in an ethereal twilight hue, with delicate cherry blossoms in various stages of bloom suspended above still waters.",
+    "style": "Japanese zen garden, cherry blossoms, misty mountains, serene"
+  },
+  {
+    "date": "2026-08-06",
+    "image": "2026-08-06_wallpaper_05.jpg",
+    "prompt": "Beautiful underwater coral reef, light rays, vibrant tropical fish scene, highly detailed aesthetic wallpaper",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
   }
 ]
