@@ -3184,5 +3184,35 @@
     "image": "",
     "prompt": "A dystopian cyberpunk cityscape with towering skyscrapers, intricate neon lights, and rain-soaked streets that reflect the vibrant colors of the city's advertisements under the dark night sky.",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-08-13",
+    "image": "2026-08-13_wallpaper_01.jpg",
+    "prompt": "A surreal landscape of a retro-futuristic cityscape at dusk, with a deep purple and pink gradient sky, distorted VHS static, and towering skyscrapers in a repeating grid pattern.",
+    "style": "vaporwave sunset, retro grid, palm trees, purple and pink sky"
+  },
+  {
+    "date": "2026-08-13",
+    "image": "2026-08-13_wallpaper_02.jpg",
+    "prompt": "A serene fantasy floating island set amidst a misty dawn, where delicate lavender-hued waterfalls cascade into crystal-clear turquoise lagoons surrounded by majestic cloud formations that resemble a flock of majestic swans.",
+    "style": "fantasy floating islands, waterfalls, magical clouds, epic"
+  },
+  {
+    "date": "2026-08-13",
+    "image": "",
+    "prompt": "A serene minimalist loft, featuring crisp white walls, a polished concrete floor, and angular industrial lighting, set against a soft, gradient blue evening sky.",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-08-13",
+    "image": "",
+    "prompt": "a mystical forest at dawn, misty fog, ethereal glow, towering trees with gnarled branches",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-08-13",
+    "image": "",
+    "prompt": "Beautiful underwater coral reef, light rays, vibrant tropical fish scene, highly detailed aesthetic wallpaper",
+    "style": "underwater coral reef, light rays, vibrant tropical fish"
   }
 ]
