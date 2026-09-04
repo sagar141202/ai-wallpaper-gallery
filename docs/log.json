@@ -3844,5 +3844,35 @@
     "image": "2026-09-03_wallpaper_05.jpg",
     "prompt": "Beautiful cyberpunk cityscape, neon lights, rain-soaked streets, night scene, highly detailed aesthetic wallpaper",
     "style": "cyberpunk cityscape, neon lights, rain-soaked streets, night"
+  },
+  {
+    "date": "2026-09-04",
+    "image": "2026-09-04_wallpaper_01.jpg",
+    "prompt": "Beautiful desert at dusk, sand dunes, amber sky, vast emptiness scene, highly detailed aesthetic wallpaper",
+    "style": "desert at dusk, sand dunes, amber sky, vast emptiness"
+  },
+  {
+    "date": "2026-09-04",
+    "image": "2026-09-04_wallpaper_02.jpg",
+    "prompt": "Beautiful lofi aesthetic, soft pastel colors, cozy room, warm lighting scene, highly detailed aesthetic wallpaper",
+    "style": "lofi aesthetic, soft pastel colors, cozy room, warm lighting"
+  },
+  {
+    "date": "2026-09-04",
+    "image": "2026-09-04_wallpaper_03.jpg",
+    "prompt": "Beautiful autumn forest path, fallen leaves, fog, cinematic lighting scene, highly detailed aesthetic wallpaper",
+    "style": "autumn forest path, fallen leaves, fog, cinematic lighting"
+  },
+  {
+    "date": "2026-09-04",
+    "image": "2026-09-04_wallpaper_04.jpg",
+    "prompt": "Beautiful minimalist studio, white walls, soft shadows, architectural scene, highly detailed aesthetic wallpaper",
+    "style": "minimalist studio, white walls, soft shadows, architectural"
+  },
+  {
+    "date": "2026-09-04",
+    "image": "2026-09-04_wallpaper_05.jpg",
+    "prompt": "Beautiful futuristic space station, stars through glass dome, sci-fi scene, highly detailed aesthetic wallpaper",
+    "style": "futuristic space station, stars through glass dome, sci-fi"
   }
 ]
